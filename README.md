@@ -26,7 +26,7 @@ Normalization is data pre-processing technique used to transform the values of f
 Compare physical measurements like height and weight.
 Compare customer ratings. For example, comparing ratings between 2 websites with different scales (one website with 5 star rating while the other has a 1 to 10 scale rating)
 Compare financial metrics: Revenue in dollars, profit margin in percentage
-In this project, we employ a Python library known as scikit-learn, opting specially for the MinMaxScaler object to carry out attribute transformation. MinMaxScaler  converts all attributes in a common scale, ranging from 0 to 1. As an illustration, the dragon with the maximum speed will be assigned a value of 1 for speed, whereas the lowest speed will correspond to 0. The normalization is applied uniformly across all the attributes within the dataset. A snippet of Python code for this process is shown below. For those interested in exploring the complete Python code and dataset, a link to the GitHub repository is provided below.
+In this project, we employ a Python library known as scikit-learn, opting specially for the MinMaxScaler object to carry out attribute transformation. MinMaxScaler  converts all attributes in a common scale, ranging from 0 to 1. As an illustration, the dragon with the maximum speed will be assigned a value of 1 for speed, whereas the lowest speed will correspond to 0. The normalization is applied uniformly across all the attributes within the dataset. A snippet of Python code for this process is shown below. For those interested in exploring the complete Python code and dataset, check the Jupyter Notebook in this repository.
 
 ```
 from sklearn.preprocessing import MinMaxScaler #Import library
