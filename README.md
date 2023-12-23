@@ -55,7 +55,7 @@ The dragon's coefficient is derived from the summation of all dragon attributes,
 Coefficient = (age*W1) +(size*W2) +(weight*W3) +(speed*W4) +(strength*W5) +(battleExperience*W6) +(fitness*w7)
 ```
 
-![Heatmap](https://github.com/antoniodagnino/HOD/assets/76269794/ba3f2d2a-0a1c-4df3-8443-be42aaff59e1)
+![Heatmap](https://github.com/antoniodagnino/HOD/assets/76269794/ba3f2d2a-0a1c-4df3-8443-be42aaff59e1 "Heatmap of normalized data")
 
 
 **Probability of Victory (Power BI Measures):**
